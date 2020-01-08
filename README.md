@@ -7,5 +7,3 @@ Ligand Similarity Complements Sequence, Physical Interaction, and Co-Expression 
 Matthew J. O’Meara, Sara Ballouz, Brian K. Shoichet, Jesse Gillis
 https://doi.org/10.1371/journal.pone.0160098
 
-
-### Code: 
